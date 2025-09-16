@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+mosquitto:
+image: eclipse-mosquitto:2.0
+container_name: mosquitto
+ports:
+- "1883:1883"
+- "9001:9001" # websocket se quiser
+volumes:
+- ./mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf
+restart: unless-stopped
+
+
+mongo:
+image: mongo:6
+container_name: mongo
+ports:
+- "27017:27017"
+volumes:
+- mongo_data:/data/db
+restart: unless-stopped
+
+
+volumes:
+mongo_data:
