@@ -1,5 +1,6 @@
 # Escopo do Projeto
 >Equipe: Raphael Aaron - 564067; Felipe Catto - 562106; Kimberly Kristina - 564080; Laura Dantas - 564064
+
 >Link vídeo: 
 
 O Passa a Bola tem enfrentado grandes desafios relacionados à desinformação do público em relação ao futebol feminino e a falta de integração da comunidade. A ausência de espaços digitais dedicados a esse tema dificulta o fortalecimento do engajamento e a disseminação de informações confiáveis.
