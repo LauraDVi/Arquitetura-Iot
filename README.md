@@ -1,7 +1,7 @@
 # Escopo do Projeto
 >Equipe: Raphael Aaron - 564067; Felipe Catto - 562106; Kimberly Kristina - 564080; Laura Dantas - 564064
 
->Link vídeo: 
+>Link vídeo: https://youtu.be/P7jWxm13_Nk
 
 O Passa a Bola tem enfrentado grandes desafios relacionados à desinformação do público em relação ao futebol feminino e a falta de integração da comunidade. A ausência de espaços digitais dedicados a esse tema dificulta o fortalecimento do engajamento e a disseminação de informações confiáveis.
 Pensando em solucionar tais problemas, nós da Unlimit Tech Solution, pensamos no desenvolvimento de um app (MVP web) com funcionalidades semelhantes a um rede social, permitindo a criação de posts curtos, os quais permitem a interação entre os usuários. O diferencial da solução está na integração de um chatbot especializado em futebol feminino, capaz de responder dúvidas dos usuários sobre regras, campeonatos, times, jogadoras e história do esporte.
